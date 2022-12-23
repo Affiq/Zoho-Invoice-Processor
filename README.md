@@ -20,8 +20,10 @@ A Zoho invoice processor used to convert invoice information to CSV format (to b
 <ol>
   <li> <h2> Source Folder, Sub Folder and .pdf Set Up</h1>
   The source folder should function as the home directory containing all the subfolders that should be part of the invoice processing system. For instance,
-  C:\\Users\\Affiq\\Zoho contains the folders C:\\Users\\Affiq\\Zoho\\InvoiceBatch1 and C:\\Users\\Affiq\\InvoiceBatch2. Each folder has a number of PDFs that
-  should be processed.
+  <i>C:\\Users\\Affiq\\Zoho</i> contains the folders 
+  <i>C:\\Users\\Affiq\\Zoho\\InvoiceBatch1</i>
+  <i>C:\\Users\\Affiq\\InvoiceBatch2</i> 
+  Each folder has a number of PDFs that should be processed.
   </li>
 
   <li> <h2> Configurations </h2>
