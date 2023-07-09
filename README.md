@@ -1,5 +1,5 @@
 # Zoho-Invoice-Processor
-A Zoho invoice processor used to convert invoice information to CSV format (to be used in Wave Accounting) implemented by Affiq Khairuddin.
+A Zoho invoice processor used to convert invoice information (pdf or jpg) to CSV format (to be used in Wave Accounting). Implemented in Python alongside PDF2Image and Py2PDF for PDF data extraction, PyTesseract Optical Character Reader for jpg data extraction and Numpy library for image conversion.
 
 <h1>Modes:</h1>
 <ul>
